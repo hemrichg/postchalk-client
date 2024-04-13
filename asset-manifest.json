@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/postchalk-client/static/js/main.a15aaacb.js",
+    "index.html": "/postchalk-client/index.html",
+    "main.a15aaacb.js.map": "/postchalk-client/static/js/main.a15aaacb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a15aaacb.js"
+  ]
+}
