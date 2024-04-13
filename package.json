@@ -2,6 +2,7 @@
   "name": "postchalk-client",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://hemrichg.github.io/postchalk-client/src",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
